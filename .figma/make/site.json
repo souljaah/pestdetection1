@@ -1,0 +1,11 @@
+{
+  "title": "pest detection",
+  "description": "This web application offers a user-friendly interface for managing and querying data with SQLite, streamlining database interactions for developers and businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

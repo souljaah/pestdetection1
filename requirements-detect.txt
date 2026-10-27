@@ -1,0 +1,4 @@
+# Optional: pest detection with the YOLO model (scripts/../models/*.pt). Install with:
+#   pip install -r requirements-detect.txt
+-r requirements.txt
+ultralytics>=8.3,<9
